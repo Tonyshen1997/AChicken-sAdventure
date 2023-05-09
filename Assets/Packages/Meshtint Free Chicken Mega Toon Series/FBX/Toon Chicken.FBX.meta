@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: d623cd35a78380d4eb0457c4e483abed
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Rig
+  - first:
+      1: 100004
+    second: RigHead
+  - first:
+      1: 100006
+    second: RigLArm1
+  - first:
+      1: 100008
+    second: RigLArm2
+  - first:
+      1: 100010
+    second: RigLLeg1
+  - first:
+      1: 100012
+    second: RigLLeg2
+  - first:
+      1: 100014
+    second: RigLLegAnkle
+  - first:
+      1: 100016
+    second: RigLLegFoot1
+  - first:
+      1: 100018
+    second: RigLLegPlatform
+  - first:
+      1: 100020
+    second: RigNeck
+  - first:
+      1: 100022
+    second: RigPelvis
+  - first:
+      1: 100024
+    second: RigRArm1
+  - first:
+      1: 100026
+    second: RigRArm2
+  - first:
+      1: 100028
+    second: RigRibcage
+  - first:
+      1: 100030
+    second: RigRLeg1
+  - first:
+      1: 100032
+    second: RigRLeg2
+  - first:
+      1: 100034
+    second: RigRLegAnkle
+  - first:
+      1: 100036
+    second: RigRLegFoot1
+  - first:
+      1: 100038
+    second: RigRLegPlatform
+  - first:
+      1: 100040
+    second: RigSpine
+  - first:
+      1: 100042
+    second: RigTail1
+  - first:
+      1: 100044
+    second: RigTail2
+  - first:
+      1: 100046
+    second: Toon Chicken
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Rig
+  - first:
+      4: 400004
+    second: RigHead
+  - first:
+      4: 400006
+    second: RigLArm1
+  - first:
+      4: 400008
+    second: RigLArm2
+  - first:
+      4: 400010
+    second: RigLLeg1
+  - first:
+      4: 400012
+    second: RigLLeg2
+  - first:
+      4: 400014
+    second: RigLLegAnkle
+  - first:
+      4: 400016
+    second: RigLLegFoot1
+  - first:
+      4: 400018
+    second: RigLLegPlatform
+  - first:
+      4: 400020
+    second: RigNeck
+  - first:
+      4: 400022
+    second: RigPelvis
+  - first:
+      4: 400024
+    second: RigRArm1
+  - first:
+      4: 400026
+    second: RigRArm2
+  - first:
+      4: 400028
+    second: RigRibcage
+  - first:
+      4: 400030
+    second: RigRLeg1
+  - first:
+      4: 400032
+    second: RigRLeg2
+  - first:
+      4: 400034
+    second: RigRLegAnkle
+  - first:
+      4: 400036
+    second: RigRLegFoot1
+  - first:
+      4: 400038
+    second: RigRLegPlatform
+  - first:
+      4: 400040
+    second: RigSpine
+  - first:
+      4: 400042
+    second: RigTail1
+  - first:
+      4: 400044
+    second: RigTail2
+  - first:
+      4: 400046
+    second: Toon Chicken
+  - first:
+      21: 2100000
+    second: Material #2
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Toon Chicken
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Toon Chicken
+  - first:
+      43: 4300000
+    second: Toon Chicken
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Toon Chicken
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 40880eeba3ef1d943b22f7b445e502d9
+  - 46d0b1354c1891d458a732548bb69bf6
+  - 8655854fe0299a548b9c79b29ab40b8c
+  - d279d6200c85ac140aa9c93ce39f4ad4
+  - 863ab454f80da6f4e9a86cfebbb3a15d
+  - 01ad6942c5071ee4dbe84fa59bb44e44
+  - 9daf622be675b864ca009e73347d95f3
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Toon Chicken(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Toon Chicken
+      parentName: Toon Chicken(Clone)
+      position: {x: -0, y: 0, z: -0.019893898}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig
+      parentName: Toon Chicken(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigLLegPlatform
+      parentName: Toon Chicken(Clone)
+      position: {x: -0.054115757, y: -0.000000003786337, z: -0.015574699}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigRLegPlatform
+      parentName: Toon Chicken(Clone)
+      position: {x: 0.054115757, y: -0.00000000378634, z: -0.0155746825}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigPelvis
+      parentName: Toon Chicken(Clone)
+      position: {x: -0.0000000010158515, y: 0.12993492, z: -0.0042661894}
+      rotation: {x: -0.7071066, y: 0.00048116958, z: 0.70710665, w: -0.00048103192}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigTail1
+      parentName: RigPelvis
+      position: {x: 0.06656789, y: -0.04939528, z: 0.000000009617615}
+      rotation: {x: 1.7162568e-13, y: 0.00000018686904, z: 0.9597455, w: 0.28087106}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: RigTail2
+      parentName: RigTail1
+      position: {x: -0.0669368, y: -0.000000019073486, z: -2.2737367e-15}
+      rotation: {x: -7.1026396e-14, y: -0.000000027812362, z: -0.14284247, w: 0.98974544}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: RigRLeg1
+      parentName: RigPelvis
+      position: {x: -0.0041946587, y: 0.052565612, z: -0.05287348}
+      rotation: {x: -0.66008073, y: 0.74361414, z: 0.064005, w: -0.08505762}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: RigRLeg2
+      parentName: RigRLeg1
+      position: {x: -0.030726135, y: 0, z: 0}
+      rotation: {x: 0.17994548, y: -0.018743442, z: -0.10789731, w: 0.97756153}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999997}
+    - name: RigRLegAnkle
+      parentName: RigRLeg2
+      position: {x: -0.02399815, y: 0.0000000017881393, z: 0.0000000047683715}
+      rotation: {x: -0.07515933, y: -0.0029928107, z: -0.053773902, w: 0.9957161}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: RigRLegFoot1
+      parentName: RigRLegAnkle
+      position: {x: -0.021208668, y: 0, z: 0}
+      rotation: {x: 0.000027482403, y: -0.000033949993, z: -0.6292196, w: 0.7772276}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: RigSpine
+      parentName: RigPelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000017346164, y: 0.000000035371507, z: 0.44210362, w: 0.896964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigRibcage
+      parentName: RigSpine
+      position: {x: -0.16012384, y: 0, z: 0}
+      rotation: {x: 0.000000013406437, y: 0.00000007606549, z: 0.12416293, w: 0.9922618}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: RigRArm1
+      parentName: RigRibcage
+      position: {x: 0.010181484, y: -0.007916765, z: -0.118539535}
+      rotation: {x: 0.19227101, y: 0.77404845, z: 0.14542, w: -0.5854348}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: RigRArm2
+      parentName: RigRArm1
+      position: {x: -0.083687164, y: -0.000000009536743, z: 0.000000009536743}
+      rotation: {x: -0.01301698, y: -0.08783499, z: 0.435188, w: 0.8959503}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: RigLArm1
+      parentName: RigRibcage
+      position: {x: 0.010181465, y: -0.00791677, z: 0.118539535}
+      rotation: {x: 0.1922708, y: 0.77404857, z: -0.14541961, w: 0.5854349}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: RigLArm2
+      parentName: RigLArm1
+      position: {x: -0.08368717, y: 0.000000019073486, z: -0.000000019073486}
+      rotation: {x: 0.013016929, y: 0.0878349, z: 0.43518814, w: 0.8959503}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: RigNeck
+      parentName: RigRibcage
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000006105963, y: -0.0000059409426, z: 0.086810425, w: 0.9962249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigHead
+      parentName: RigNeck
+      position: {x: -0.10429639, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.0000017951616, y: 0.000005736094, z: 0.115115516, w: 0.9933521}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: RigLLeg1
+      parentName: RigPelvis
+      position: {x: -0.0041946685, y: 0.052565612, z: 0.05287348}
+      rotation: {x: -0.6600807, y: 0.74361444, z: -0.06401367, w: 0.08504934}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: RigLLeg2
+      parentName: RigLLeg1
+      position: {x: -0.03072614, y: -0.0000000023841857, z: 0}
+      rotation: {x: -0.17995112, y: 0.018717902, z: -0.107899696, w: 0.9775607}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: RigLLegAnkle
+      parentName: RigLLeg2
+      position: {x: -0.023998158, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0.07515944, y: 0.0029129512, z: -0.05354623, w: 0.9957286}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: RigLLegFoot1
+      parentName: RigLLegAnkle
+      position: {x: -0.021208672, y: 0.0000000011920929, z: -0.0000000047683715}
+      rotation: {x: -0.00007594987, y: 0.00009383353, z: -0.62939966, w: 0.7770818}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
